@@ -1,0 +1,74 @@
+#title{
+
+}
+.navbar{
+  background-color:#222222;
+  position: fixed;
+
+}
+#brand{
+  color:#A5F1E9;
+}
+#brand2{
+  height: 40;
+  width:20;
+}
+#i1{
+  display:inline;
+}
+#b1{
+  color:#fff;
+}
+#c1{
+  color:#22A39F;
+}
+#c2{
+  color:#22A39F;
+}
+#c3{
+  color:#22A39F;
+}
+.row{
+  padding-top:30px;
+}
+.about{
+  background-color:#F3EFE0;
+  padding-bottom:50px;
+}
+.curriculum{
+  background-color:#F3EFE0;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+}
+.images{
+  text-align: center;
+}
+.he{
+  padding-top:5px;
+  font-size:3rem;
+}
+.Goals{
+  background-color:#F3EFE0;
+  padding-top:50px;
+}
+.headg{
+  font-size:1.5rem;
+}
+.i1{
+  line-height: 1rem;
+}
+.i2{
+  line-height: 1rem;
+}
+.i3{
+ line-height: 1rem;
+}
+.Projects{
+  background-color:#F3EFE0;
+  padding-top: 30px;
+}
+#pro{
+  font-size:4rem;
+  color:#434242;
+}
